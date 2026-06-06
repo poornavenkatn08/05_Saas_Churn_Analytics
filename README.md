@@ -47,7 +47,7 @@ and a **4-page Tableau dashboard** — identifying which accounts will churn and
 - **Product error rate is the #1 churn driver** — not support quality, which was nearly identical for churned vs retained accounts (contradicted the business assumption).
 - DevTools + Enterprise is the worst segment (45.5% churn); event-sourced accounts churn ~3× more than partner-sourced.
 
-> Figures describe what the analysis demonstrates on this synthetic dataset.
+
 
 ## Business questions this answers
 - **Which accounts are about to churn, and how much revenue is exposed?** → 123 medium-risk active accounts representing $1.1M+ MRR ($11.7M annualized).
